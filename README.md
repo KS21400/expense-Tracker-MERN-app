@@ -2,8 +2,10 @@
 It is a MERN stack Project which takes your income and expenses  and keeps track of it and show it in a calculated way.
 
 ## USAGE
+
 ```
 change config.env file in config folder
+
  npm install
  cd client npm install
  cd ..
@@ -23,6 +25,7 @@ change config.env file in config folder
  
  # Prod
  npm start
- ```
+
+```
 
 
